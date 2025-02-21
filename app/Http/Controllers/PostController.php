@@ -21,7 +21,7 @@ class PostController extends Controller
     }
   
     /**
-     * create/ membuat posts
+     * Write code on Method
      *
      * @return response()
      */
@@ -31,7 +31,7 @@ class PostController extends Controller
     }
     
     /**
-     * store
+     * Show the form for creating a new resource.
      *
      * @return Response
      */
@@ -48,7 +48,7 @@ class PostController extends Controller
     }
   
     /**
-     * edit post
+     * Write code on Method
      *
      * @return response()
      */
@@ -60,7 +60,7 @@ class PostController extends Controller
     }
     
     /**
-     * update id, rquest
+     * Show the form for creating a new resource.
      *
      * @return Response
      */
@@ -76,7 +76,7 @@ class PostController extends Controller
     }
     
     /**
-     * destroy id.
+     * Show the form for creating a new resource.
      *
      * @return Response
      */
